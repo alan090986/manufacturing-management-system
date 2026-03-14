@@ -63,6 +63,8 @@ Development approach:
 - Agile methodology (Scrum)
 - Iterative development
 - UML diagrams for system design
+- White-Box Testing
+- Black-Box testing
 
 ---
 
