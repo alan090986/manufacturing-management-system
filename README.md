@@ -1,5 +1,13 @@
 # Manufacturing Management System
 
+## Overview
+
+Manufacturing Management System is a web application designed to help small manufacturing businesses manage their daily operations.
+
+The system centralizes product management, customer orders, production tracking and payment control in a single platform.
+
+Originally developed for a furniture manufacturing company, the system is currently used in real operational workflows.
+
 Web-based management system designed for small and medium manufacturing companies.
 
 This platform helps manage production workflows, orders, customers, and internal operations through a centralized system.
