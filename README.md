@@ -126,6 +126,30 @@ The platform reduced operational errors and improved internal process visibility
 The long-term goal is to evolve this platform into a SaaS solution for small manufacturing companies that need simple and affordable production management tools.
 
 ---
+## Screenshots
+
+### Login
+![Login](docs/screenshots/login.png)
+
+### Dashboard
+![Dashboard](docs/screenshots/Dashboard.png)
+
+### Orders Module
+![Orders](docs/screenshots/pedidos.png)
+
+### Products Module
+![Products](docs/screenshots/productos.png)
+
+### Production Tracking
+![Production](docs/screenshots/produccion.png)
+
+---
+## Architecture
+
+The system follows an MVC architecture.
+
+![Architecture Diagram](docs/architecture/diadespliegue.png)
+---
 
 ## Author
 
