@@ -93,20 +93,7 @@ AJAX is used to improve the user experience by updating data dynamically without
 
 ---
 
-## Screenshots
 
-*(Add screenshots of the system interface here)*
-
-Examples:
-
-- Login page
-- Dashboard
-- Product management
-- Order management
-- Production tracking
-- Payment control
-
----
 
 ## Business Context
 
